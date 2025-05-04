@@ -7,7 +7,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="d-flex justify-content-between align-items-center mb-4">
-                <h2>Daftar Makanan</h2>
+                <h2>Daftar Makanan foodsar</h2>
                 <a href="{{ route('makanans.create') }}" class="btn btn-primary">Tambah Makanan</a>
             </div>
             
